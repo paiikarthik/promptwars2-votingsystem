@@ -8,11 +8,7 @@
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange?logo=google)](https://ai.google.dev/)
 [![Google Cloud Run](https://img.shields.io/badge/Deployed-Cloud%20Run-4285F4?logo=google-cloud)](https://cloud.google.com/run)
 
----
 
-## 🌐 Live Demo
-
-**👉 https://election-assistant-155727688265.us-central1.run.app/**
 
 ---
 
